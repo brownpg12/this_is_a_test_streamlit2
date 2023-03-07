@@ -20,7 +20,7 @@ df=load_data()
 
 col1,col2= st.columns(2)
 with col1:
-    st.title('Broadband in regions: test')
+    st.title('Broadband in regions: test  :tv:')
 with col2:
     st.image('https://www.publicdomainpictures.net/pictures/370000/velka/television-15980966413Ie.jpg',width=200)
 
